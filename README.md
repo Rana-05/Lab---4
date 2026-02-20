@@ -5,6 +5,7 @@ Student Exam Performance Dataset
 This dataset contains synthetic data representing students' academic and lifestyle factors.
 
 Columns:
+
 student_id: Unique identifier for each student
 
 hours_studied: Average daily study hours
